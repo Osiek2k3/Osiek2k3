@@ -12,4 +12,4 @@ I am a Computer Science student at the Łódź University of Technology, special
 
 I am continuously improving my skills by working on projects related to new technologies and tools. Feel free to explore my repositories!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osiek2k3&count_private=true&show_icons=true&hide_title=true&hide=prs)
