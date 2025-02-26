@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**Osiek2k3/Osiek2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at the Łódź University of Technology, specializing in databases. Currently, I work as an internal developer using .NET Core technology.
 
-Here are some ideas to get you started:
+## My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** C, C#, Python
+- **Databases:** T-SQL, P-SQL
+- **Currently learning:** AWS (Amazon Web Services)
+- [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,docker,kafka,py,opencv,aws,flutter&perline=3)](https://skillicons.dev)
+
+
+I am continuously improving my skills by working on projects related to new technologies and tools. Feel free to explore my repositories!
