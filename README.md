@@ -6,8 +6,10 @@ I am a Computer Science student at the Łódź University of Technology, special
 
 - **Programming Languages:** C, C#, Python
 - **Databases:** T-SQL, P-SQL
-- **Currently learning:** AWS (Amazon Web Services)
-- [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,docker,kafka,py,opencv,aws,flutter&perline=3)](https://skillicons.dev)
+- **Currently learning:** AWS (Amazon Web Services) :books:
+- [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,docker,kafka,py,opencv,aws,flutter&perline=10)](https://skillicons.dev)
 
 
 I am continuously improving my skills by working on projects related to new technologies and tools. Feel free to explore my repositories!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&hide=prs)
