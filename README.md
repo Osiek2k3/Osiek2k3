@@ -5,7 +5,7 @@ I am a Computer Science student at the Łódź University of Technology, special
 ## My Skills:
 
 - **Programming Languages:** C, C#, Python
-- **Databases:** T-SQL, P-SQL
+- **Databases:** T-SQL, PL-SQL
 - **Currently learning:** AWS (Amazon Web Services) :books:
 - [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,docker,kafka,py,opencv,aws&perline=10)](https://skillicons.dev)
 
